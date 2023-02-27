@@ -1,0 +1,71 @@
+@import url('variables.css');
+
+
+#moderation-activity-list-container{
+    color: var(--fifth-color);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    margin-top: 15px;
+}
+
+#moderation-activity-list-title{
+    font-size: 0.7em;
+}
+#moderation-activity-list-description{
+    text-align: center;
+    font-size: 0.5em;
+    font-weight: lighter;
+}
+
+#moderation-activity-list-container div:not(#moderation-user-tile-user-name){
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+}
+
+.participant-list-activity{
+
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+}
+
+#participant-list-activity-title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+    height: 50px;
+
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.participant-list-activity img{
+    height: 100px;
+    width: 340px;
+    border-radius: 15px;
+}
+
+#participant-list-activity-no-participant-message{
+    font-size: 0.55em;
+    font-weight: lighter;
+    text-align: center;
+}
+
+#moderation-activity-list-nothing-pendant-message{
+    margin-top: 20px;
+    font-size: 0.55em;
+    font-weight: lighter;
+    text-align: center;
+}
+
+#participant-list-activity-no-moderation-possiblitities-message{
+    font-size: 0.55em;
+    font-weight: lighter;
+    text-align: center;
+}

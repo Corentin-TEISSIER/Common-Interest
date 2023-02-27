@@ -1,0 +1,72 @@
+@import url('variables.css');
+
+#login-background {
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    color: var(--sixth-color);
+    font-weight: bold;
+    font-size: 2em;
+    font-family: Calibri;
+    width: 360px;
+    height: 728px;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    justify-content: center;
+    align-items: center;
+}
+
+form {
+    width: 360px;
+    height: 728px;
+}
+
+label {
+    display: flex;
+    flex-direction: column;
+    width: 360px;
+    height: 300px;
+    align-items: center;
+}
+
+label#top-login-label {
+    justify-content: end;
+}
+
+label#bottom-login-label {
+    justify-content: flex-start;
+}
+
+input {
+    background-color: var(--sixth-color);
+    color: var(--third-color);
+    font-size: 0.65em;
+    border-radius: 15px;
+    border: 0px;
+    width: 300px;
+    height: 30px;
+    text-align: center;
+    
+}
+
+label#label-connection-button {
+    display: flex;
+    height: 128px;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+#connection-button {
+    display: flex;
+    height: 100px;
+    width: 300px;
+    background-color: var(--sixth-color);
+    color: var(--third-color);
+    font-size: 1.35em;
+    border-radius: 15px;
+    align-items: center;
+    justify-content: center;
+}
+    
+
+ 

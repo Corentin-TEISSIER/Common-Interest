@@ -1,0 +1,113 @@
+@import url('variables.css');
+
+#profile-page-background { 
+    display: flex;
+    flex-direction: column;
+
+    background-color: black;
+    color: white;
+    font-size: 2em;
+    font-weight: bold;
+    font-family: Calibri;
+    width: 360px;
+    height: 650px;
+    align-items: center;
+    justify-content: flex-start;
+
+    margin-top: 3px;
+    margin-bottom: 3px;
+
+    border-radius: 15px;;
+
+    overflow: scroll;
+    scrollbar-width: none;
+    
+
+}
+
+#profile-header-background {
+    display: flex;
+    flex-direction: row;
+
+}
+
+#modify-button-background {
+    display: flex;
+    width: 180px;
+    justify-content: flex-end ;
+}
+
+#disconnect-button-background {
+    display: flex;
+    width: 180px;
+    justify-content: left ;
+}
+
+#profile-picture-background {
+
+    margin-top: 25px;
+    margin-bottom: 35px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--third-color);
+    width: 150px;
+    height: 150px;
+    min-height: 150px;
+    border-radius: 100px;
+}
+
+#profile-picture-background img{
+    width: 140px;
+    height: 140px;
+    border-radius: 100px;
+
+}
+
+#profile-picture-background-bis {
+
+    margin-top: 25px;
+    margin-bottom: 10px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--third-color);
+    width: 150px;
+    height: 150px;
+    min-height: 150px;
+    border-radius: 100px;
+}
+
+#profile-picture-background-bis img{
+    width: 140px;
+    height: 140px;
+    border-radius: 100px;
+
+}
+
+
+#modify-button-bis{
+    background-color: var(--fifth-color);
+    color: var(--sixth-color);
+    font-size: 0.7em;
+    border-radius: 100px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 25px;
+    margin-top: 10px;
+}
+
+#request-already-sent-message{
+    text-align: center;
+    font-size: 0.55em;
+    color: var(--fourth-color);
+    margin-bottom: 25px;
+}
+
+#from-profile-send-direct-message{
+    position: absolute;
+    right: 10px;
+    top: 80px;
+}

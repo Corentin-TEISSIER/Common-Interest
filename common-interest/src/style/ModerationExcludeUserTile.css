@@ -1,0 +1,80 @@
+#moderation-exclude-user-tile-container{
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+    width: 340px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+    background-color: var(--second-color);
+    border-radius: 15px;
+}
+
+#moderation-exclude-user-tile-user-data{
+    display: flex;
+    flex-direction: column;
+    height: 100px;
+    width: 100px;
+    font-size: 0.6em;
+
+}
+
+#moderation-exclude-user-tile-user-name{
+
+    width: 100px;
+    display: inline-block;
+    text-align: center;
+    max-width: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+#moderation-exclude-user-tile-user-image{
+    height: 65px;
+    width: 65px;
+
+    border-radius: 100px;
+}
+
+#exlude-user-button{
+    background-color: var(--third-color);
+    font-size: 0.8em;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 15px;
+}
+
+#cancel-exlude-user-button{
+    background-color: var(--third-color);
+    font-size: 0.8em;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 15px;
+}
+
+#exclude-user-container{
+    display: flex;
+    flex-direction: column;
+}
+
+#exclude-user-label{
+    font-size: 0.5em;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+#exclude-user-confirmation-label{
+    font-size: 0.5em;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+#moderation-exclude-user-tile-buttons{
+    width: 220px;
+}

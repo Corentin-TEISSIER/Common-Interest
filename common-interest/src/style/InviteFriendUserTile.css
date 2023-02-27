@@ -1,0 +1,164 @@
+#invite-friend-user-tile-background{
+    display: flex;
+    flex-direction: row;
+
+    width: 340px;
+
+    background-color: var(--sixth-color);
+    margin-bottom: 5px;
+    border-radius: 15px;
+}
+
+#invite-friend-user-tile-background img{
+    width: 65px;
+    height: 65px;
+    border-radius: 100px;
+
+    /* margin-top: 10px; */
+    margin-bottom: 5px;
+
+}
+
+#invite-friend-user-tile-background a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#invite-friend-user-tile-user-name{
+    font-size: 0.5em;
+    font-weight: lighter;
+    text-align: center;
+
+    display: inline-block;
+    text-align: center;
+    max-width: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+
+    color: var(--fifth-color)
+}
+
+#invite-friend-user-tile-user-picture{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    width: 80px;
+    height: 80px;
+}
+
+
+#invite-friend-user-tile-user-data{
+    display: flex;
+    flex-direction: column;
+
+    justify-content: center;
+    align-items: center;
+
+    flex: 3;
+
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 15px;
+
+    width: 100px;
+    height: 100px;
+    min-width: 100px;
+    min-height: 100px;
+}
+
+#invite-friend-user-tile-button-area{
+    flex: 9;
+
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 15px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#invite-friend-user-tile-invite-button-container{
+    background-color: black;
+    color: var(--fifth-color);
+    text-align: center;
+
+    width: 110px;
+    height: 40px;
+    border-radius: 35px; 
+}
+
+hr{
+    color: var(--fifth-color);
+    margin-bottom: 25px;
+}
+
+#invite-friend-user-tile-invite-confirmation-label{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+
+    font-size: 0.5em;
+    color: var(--fifth-color);
+
+    margin-bottom: 10px;
+}
+
+#invite-friend-user-tile-invite-button-confirmation-button{
+    display: flex;
+    flex-direction: row;
+
+    align-items: center;
+    justify-content: flex-end;
+}
+
+#yes-invite-friend-user-tile-invite-button{
+    background-color: black;
+    color: var(--fifth-color);
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+
+    width: 80px;
+    height: 35px;
+    border-radius: 35px; 
+
+    font-size: 0.8em;
+}
+
+#no-invite-friend-user-tile-invite-button{
+    background-color: black;
+    color: var(--fifth-color);
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+
+    width:80px;
+    height: 35px;
+    border-radius: 35px; 
+
+    font-size: 0.8em;
+
+    margin-left: 15px;
+    margin-right: 15px;
+    
+}
+
+
+#user-already-invited{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+
+    font-size: 0.5em;
+    color: var(--fifth-color);
+
+    margin-bottom: 10px;
+}

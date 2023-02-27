@@ -1,0 +1,21 @@
+#activity-tile-option-background{
+    display: flex;
+    flex-direction: column ;
+    align-items: center;
+    justify-content: center;
+
+    margin-bottom: 15px;
+    margin-top: 5px;
+}
+
+#label-moderation-pending{
+    margin-top: 15px;
+    font-weight: bold;
+    color: var(--fourth-color)
+}
+
+#label-moderation{
+    margin-top: 15px;
+    font-weight: bold;
+    color: var(--fourth-color)
+}

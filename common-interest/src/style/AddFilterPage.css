@@ -1,0 +1,63 @@
+@import url('variables.css');
+
+#add-filter-page-background {
+    display: flex;
+    background-color: black;
+    color: white;
+    font-size: 2em;
+    font-weight: bold;
+    font-family: Calibri;
+    width: 360px;
+    min-height: 710px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-top: 20px;
+
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+
+    font-size: 1em;
+
+}
+
+#add-filter-page-main-container{
+    font-size: 2.2em;
+}
+
+#saveButton{
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row;
+    margin-bottom: 30px;
+    margin-right: 12px;
+
+    padding-right: 8px;    
+
+    margin-top: 350px;
+
+}
+#saveButton>a{
+    align-self: flex-end;
+    width: 87px;
+    height: 40px;
+    border-radius: 15px;
+}
+#saveButton>a>div{
+    width: 87px;
+    font-size: 22px;
+    font-weight: 600;
+    height: 40px;
+    color: white;
+}
+
+#save-button-container{
+    background-color: var(--sixth-color);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 100px;
+
+
+}

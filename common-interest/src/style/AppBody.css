@@ -1,0 +1,9 @@
+@import url('variables.css');
+
+#background-body {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(0, 0, 0);
+    width: 360px;
+    height: 656px
+}

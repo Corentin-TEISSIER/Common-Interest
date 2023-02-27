@@ -1,0 +1,202 @@
+{
+  "connectedUser": {
+    "id": -1,
+    "name": "",
+    "username": "",
+    "password": "",
+    "profilePicture": "",
+    "friends": [],
+    "activities": [],
+    "request": [],
+    "invitedActivities": [],
+    "interests": [],
+    "location": "",
+    "age": ""
+  },
+  "users": [
+    {
+      "id": 0,
+      "name": "Corentin Teissier",
+      "username": "C0C0NUT5E",
+      "password": "password",
+      "profilePicture": "/Picture/corentin-profile-picture.jpg",
+      "friends": [
+        
+      ],
+      "activities": [
+        0,
+        1
+      ],
+      "invitedActivities": [
+        4,
+        5
+      ],
+      "request": [1,2],
+      "interests": [
+        {
+          "category": "cooking",
+          "speciality": "sushi making",
+          "frequency": "Occasionally",
+          "level": "Beginner"
+        },
+        {
+          "category": "entertainment",
+          "speciality": "movies",
+          "frequency": "Everyday",
+          "level": "Pro"
+        },
+        {
+          "category": "travel",
+          "speciality": "nature retreats",
+          "frequency": "Occasionally",
+          "level": "Pro"
+        },
+        {
+          "category": "creative",
+          "speciality": "painting",
+          "frequency": "Frequently",
+          "level": "Expert"
+        },
+        {
+          "category": "learning",
+          "speciality": "reading",
+          "frequency": "Everyday",
+          "level": "Expert"
+        },
+        {
+          "category": "entertainment",
+          "speciality": "music",
+          "frequency": "Everyday",
+          "level": "Expert"
+        },
+        {
+          "category": "travel",
+          "speciality": "city breaks",
+          "frequency": "Occasionally",
+          "level": "Beginner"
+        }
+      ],
+      "location": "Lyon",
+      "age": "23"
+    },
+    {
+      "id": 1,
+      "name": "John Doe",
+      "username": "johndoe",
+      "password": "password123",
+      "profilePicture": "/Picture/john-doe-profile-picture.jpg",
+      "friends": [],
+      "activities": [
+        1,
+        3,
+        4
+      ],
+      "request": [],
+      "invitedActivities": [],
+      "interests": [
+        {
+          "category": "cooking",
+          "speciality": "sushi making",
+          "frequency": "Occasionally",
+          "level": "Beginner"
+        },
+        {
+          "category": "entertainment",
+          "speciality": "movies",
+          "frequency": "Everyday",
+          "level": "Pro"
+        },
+        {
+          "category": "travel",
+          "speciality": "nature retreats",
+          "frequency": "Occasionally",
+          "level": "Pro"
+        },
+        {
+          "category": "creative",
+          "speciality": "painting",
+          "frequency": "Frequently",
+          "level": "Expert"
+        }
+      ],
+      "location": "Torino",
+      "age": "21"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "username": "janesmith",
+      "password": "password456",
+      "profilePicture": "/Picture/janes-smith-profile-picture.jpg",
+      "friends": [],
+      "activities": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "request": [],
+      "invitedActivities": [],
+      "interests": [
+        {
+          "category": "learning",
+          "speciality": "reading",
+          "frequency": "Everyday",
+          "level": "Expert"
+        },
+        {
+          "category": "entertainment",
+          "speciality": "music",
+          "frequency": "Everyday",
+          "level": "Expert"
+        },
+        {
+          "category": "travel",
+          "speciality": "city breaks",
+          "frequency": "Occasionally",
+          "level": "Beginner"
+        }
+      ],
+      "location": "Milano",
+      "age": "22"
+    },
+    {
+      "id": 3,
+      "name": "Fred Gallagher",
+      "username": "fredgallagher",
+      "password": "password789",
+      "profilePicture": "/Picture/fred-gallagher-profile-picture.jpg",
+      "friends": [],
+      "activities": [
+        0,
+        2
+      ],
+      "request": [],
+      "invitedActivities": [],
+      "interests": [
+        {
+          "category": "travel",
+          "speciality": "nature retreats",
+          "frequency": "Occasionally",
+          "level": "Pro"
+        },
+        {
+          "category": "creative",
+          "speciality": "painting",
+          "frequency": "Frequently",
+          "level": "Expert"
+        },
+        {
+          "category": "learning",
+          "speciality": "reading",
+          "frequency": "Everyday",
+          "level": "Expert"
+        }
+      ],
+      "location": "Milano",
+      "age": "22"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+import React from "react";
+import '../style/InterestTile.css'
+import * as icon from '../utils/interestsIconSources.js'
+import DeleteInterestButton from "./DeleteInterestButton";
+ 
+
+class InterestTile extends React.Component {
+
+    
+
+
+    render(){
+
+        return <div className="interest-tile-background">
+            
+            <div className="interest-title-background-bis">
+                <div className="interest-icon-background">
+                    <div className="interest-icon">
+                        <img src={icon.getInterestImgSource(this.props.speciality)} alt="Interest Img" />
+                    </div>
+                </div>
+                <div className="interest-speciality">
+                    {this.props.speciality}
+                </div>
+                <div className="interest-level">
+                    {this.props.level}
+                </div>
+            </div>
+
+            <div className="delete-interest-button-container">
+                    <div className="delete-interest-button-background">
+                        <DeleteInterestButton speciality={this.props.speciality} user={this.props.user} setUserInterestsState={this.props.setUserInterestsState} />
+                    </div>
+            </div>
+
+        </div>
+    }
+}
+
+export default InterestTile;

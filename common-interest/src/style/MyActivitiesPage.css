@@ -1,0 +1,196 @@
+@import url('variables.css');
+
+
+#my-activities-page-menu{
+    margin-top: 3px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+#joined-activities-label-background {
+
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+
+    height: 40px;
+    width: 120px;
+    background-color: var(--third-color);
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+#owned-activities-label-background {
+
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+
+    height: 40px;
+    width: 120px;
+    background-color: var(--third-color);
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+#moderate-activities-label-background {
+
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+
+    height: 40px;
+    width: 120px;
+    background-color: var(--fourth-color);
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+#joined-activities-label{
+
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+
+    height: 40px;
+    width: 120px;
+    background-color: var(--third-color);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    font-size: 1.5em;
+    font-weight: bold;
+    font-family: Calibri;
+    font-style: italic;
+    color: var(--tab-color);
+}
+
+#owned-activities-label{
+
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+
+    border-bottom-left-radius: 15px;
+
+    height: 40px;
+    width: 120px;
+    background-color: var(--fourth-color);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    font-size: 1.5em;
+    font-weight: bold;
+    font-family: Calibri;
+    font-style: italic;
+    color: var(--tab-color);
+}
+
+#moderate-activities-label{
+
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+
+    border-bottom-left-radius: 15px;
+
+    height: 40px;
+    width: 120px;
+    background-color: var(--fifth-color);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    font-size: 1.5em;
+    font-weight: bold;
+    font-family: Calibri;
+    font-style: italic;
+    color: var(--tab-color);
+}
+
+#my-activities-page-background {
+    display: flex;
+    flex-direction: column;
+    background-color: var(--third-color);
+    color: white;
+    font-size: 2em;
+    font-weight: bold;
+    font-family: Calibri;
+    width: 360px;
+    height: 610px;
+
+    margin-bottom: 3px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    
+    
+}
+
+#my-activities-page-scroll-area{
+    margin-left:5px;
+    margin-right: 5px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+
+    border-radius: 15px;
+
+    overflow-y: scroll;
+    scrollbar-width: none;
+
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+#my-activities-page-activity-tile-container{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#joined-activities-message-no-activities{
+    color: var(--fifth-color);
+    text-align: center;
+    font-size: 0.5em;
+    margin-top: 20px;
+}
+
+#quit-discussion-message-info-bis{
+    width: 300px;
+
+    position: absolute;
+    z-index: 2;
+    background-color: var(--fourth-color);
+    color: var(--sixth-color);
+    font-family: Calibri;
+    font-size: 2em;
+    padding: 15px;
+    border-radius: 15px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+    top:280px;
+    left: 15px;
+
+    box-shadow: 0px 0px 7px 5px var(--fifth-color);
+}
+
+.quit-discussion-cancel-button-bis{
+    background-color: var(--third-color);
+    width: 120px;
+    height: 45px;
+    border-radius: 100px;
+
+    margin-left: 15px;
+    margin-right: 15px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    font-weight: bold;
+    color: var(--sixth-color);
+}

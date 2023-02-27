@@ -1,0 +1,21 @@
+@import url('variables.css');
+
+#plus-button {
+    display:flex;
+    background-color: var(--sixth-color);
+    width:80px;
+    height: 80px;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+
+    position: absolute;
+    bottom: 90px;
+    right: 10px;
+}
+
+#plus-button img {
+    width: 70px;
+    height: 70px;
+}
+

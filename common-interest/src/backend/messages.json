@@ -1,0 +1,94 @@
+{
+    "messages": [
+        {
+            "id": 0,
+            "type": "direct",
+            "group": {},
+            "users": [0, 1],
+            "feed": [
+                {
+                    "sender": 0,
+                    "content": "hello!",
+                    "readers": [1]
+                },
+                {
+                    "sender": 1,
+                    "content": "hey!",
+                    "readers": [0]
+                },
+                {
+                    "sender": 0,
+                    "content": "what's up?",
+                    "readers": [1]
+                },
+                {
+                    "sender": 1,
+                    "content": "The sky!",
+                    "readers": []
+                }
+            ]    
+
+        },
+        {
+            "id": 1,
+            "type": "direct",
+            "group": {},
+            "users": [0, 1],
+            "feed": [
+                {
+                    "sender": 0,
+                    "content": "hello!",
+                    "readers": [1]
+                },
+                {
+                    "sender": 1,
+                    "content": "hey!",
+                    "readers": [0]
+                },
+                {
+                    "sender": 0,
+                    "content": "what's up?",
+                    "readers": [1]
+                },
+                {
+                    "sender": 1,
+                    "content": "The sky!",
+                    "readers": []
+                }
+            ]    
+
+        },
+        {
+            "id": 2,
+            "type": "group",
+            "group": {
+                "groupName": "The Interractionners",
+                "groupPicture":"/Picture/corentin-profile-picture.jpg"
+            },
+            "users": [0, 1, 2, 3],
+            "feed": [
+                {
+                    "sender": 0,
+                    "content": "hello!",
+                    "readers": [1]
+                },
+                {
+                    "sender": 1,
+                    "content": "hey!",
+                    "readers": []
+                },
+                {
+                    "sender": 0,
+                    "content": "what's up?",
+                    "readers": [1]
+                },
+                {
+                    "sender": 1,
+                    "content": "The sky!",
+                    "readers": []
+                }
+            ]    
+
+        }
+    ]
+}

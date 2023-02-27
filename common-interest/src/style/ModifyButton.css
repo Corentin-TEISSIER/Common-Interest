@@ -1,0 +1,18 @@
+@import url('variables.css');
+
+#modify-button {
+    display:flex;
+    background-color: var(--sixth-color);
+    width:120px;
+    height: 30px;
+    border-radius: 100px;
+    align-items: center;
+    justify-content: center;
+
+    color: var(--third-color);
+    font-size: 0.6em;
+
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-top: 10px;;
+}

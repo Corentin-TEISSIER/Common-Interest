@@ -1,0 +1,60 @@
+@import url('variables.css');
+
+.add-interest-tile-background{
+    width: 145px;
+    height: 145px;
+    background-color: var(--first-color);
+
+    margin: 10px;
+    border-radius: 15px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.add-interest-icon-background{
+    display: flex;
+    width:100;
+    height: 100;
+    border-radius: 100%;
+
+    margin-top: 15px;
+
+    align-items: center;
+    justify-content: center;
+}
+
+.add-interest-icon{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    width:70px;
+    height: 70px;
+    border-radius: 100%;
+    background-color: black;
+}
+
+.add-interest-label{
+    width:125px;
+    height: 25px;
+    
+    font-size: 0.65em;
+
+    margin-left: 10px;
+    margin-right: 10px;
+
+    display: inline-block;
+    text-align: center;
+    max-width: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px
+
+}

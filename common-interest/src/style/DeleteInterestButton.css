@@ -1,0 +1,15 @@
+@import url('variables.css');
+
+#delete-interest-button{
+    width: 30px;
+    height:30px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+
+    border: none
+}

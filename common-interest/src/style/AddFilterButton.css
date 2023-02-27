@@ -1,0 +1,58 @@
+@import url('variables.css');
+
+#add-filter-button {
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    background-color: var(--fifth-color);
+
+    width: 350px;
+    height: 120px;
+    border-radius: 15px;
+
+    align-items: center;
+    justify-content: center;
+}
+
+#add-filter-button-border {
+    display: flex;
+    flex-direction: column-reverse;
+    background-color: var(--third-color);
+
+    width: 340px;
+    height: 110px;
+    border-radius: 15px;
+
+    align-items: center;
+    justify-content: center;
+}
+
+#add-filter-button-text {
+    color: var(--fifth-color);
+    text-decoration: none;
+
+    font-size: 0.7em;
+    font-weight: bold;
+    font-family: Calibri;
+    font-style: italic;
+}
+
+#add-filter-button-icon-background{
+    background-color: var(--fifth-color);
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+#add-filter-button-icon-background img {
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+}

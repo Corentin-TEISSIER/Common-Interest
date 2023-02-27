@@ -1,0 +1,75 @@
+@import url('variables.css');
+
+
+#moderation-pending-request-acceptance-container{
+    color: var(--fifth-color);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    margin-top: 15px;
+}
+
+#moderation-pending-request-acceptance-title{
+    font-size: 0.7em;
+}
+#moderation-pending-request-acceptance-description{
+    text-align: center;
+    font-size: 0.5em;
+    font-weight: lighter;
+
+    
+}
+
+#pending-request-activity-title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+    height: 50px;
+
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+#moderation-pending-request-acceptance-container div:not(#moderation-acceptance-tile-user-name){
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    
+}
+
+.pending-request-activity{
+
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+}
+
+.pending-request-activity img{
+    height: 100px;
+    width: 340px;
+    border-radius: 15px;
+}
+
+#pending-request-activity-no-request-message{
+    font-size: 0.55em;
+    font-weight: lighter;
+    text-align: center;
+}
+
+#pending-request-activity-request-message{
+    font-size: 0.55em;
+    font-weight: lighter;
+    text-align: center;
+}
+
+#moderation-pending-request-acceptance-nothing-pendant-message{
+    margin-top: 20px;
+    font-size: 0.55em;
+    font-weight: lighter;
+    text-align: center;
+}

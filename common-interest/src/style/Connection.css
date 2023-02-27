@@ -1,0 +1,42 @@
+@import url('variables.css');
+
+#connection-background {
+    display: flex;
+    flex-direction: column-reverse;
+    background-color: black;
+    font-size: 2em;
+    font-weight: bold;
+    font-family: Calibri;
+    width: 360px;
+    height: 728px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+#connection-background div {
+    display: flex;
+    width: 360px;
+    height: 364px;
+}
+
+#signup-button {
+    background-color: #202020;
+    color: #404040;
+    justify-content: center;
+    align-items: end;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+#login-button {
+    background-color: #404040;
+    color: #202020;
+    justify-content: center;
+    align-items: start;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    text-decoration: none;
+    
+}

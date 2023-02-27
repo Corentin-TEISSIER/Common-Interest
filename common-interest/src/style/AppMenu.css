@@ -1,0 +1,30 @@
+@import url('variables.css');
+
+#background-menu {
+    display: flex;
+    background-color: black;
+    width: 360px;
+    height: 72px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+
+#background-menu div:not(#messages-pellet, #friends-pellet) {
+
+    background-color: var(--header-color);
+    width: 72px;
+    height: 72px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+#background-menu #friends-button-menu {
+    border-bottom-left-radius: 15px;
+}
+
+#background-menu #profile-button-menu {
+    border-bottom-right-radius: 15px;
+}
+
+ 

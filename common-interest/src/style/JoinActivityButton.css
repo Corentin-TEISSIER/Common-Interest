@@ -1,0 +1,17 @@
+@import url('variables.css');
+
+.activity-tile-option-button{
+    display: inline-block;
+    color: #dddddd;
+    
+    background-color: var(--fourth-color);
+    font-size: 1.3em;
+    padding: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+
+    border-radius: 20px;
+
+    margin-top: 10px
+
+}

@@ -1,0 +1,265 @@
+@import url('variables.css');
+
+#new-message-page-background {
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    color: white;
+    font-size: 2em;
+    font-weight: bold;
+    font-family: Calibri;
+    width: 360px;
+    height: 656px;
+    align-items: center;
+    justify-content: center;
+}
+
+#new-message-page-title{
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#new-message-page-selected-friends{
+    height: 90px;
+    width: 330px;
+    background-color: var(--fifth-color);
+
+    border-radius: 15px;
+    margin-top: 5px;
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+    overflow: auto;
+    scrollbar-width: none;
+
+    color: var(--sixth-color);
+    font-weight: 400;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 0.8em;
+}
+
+#new-message-page-friends-list-scrollable-area{
+    height: 446px;
+    overflow: auto;
+    scrollbar-width: none;
+    border-radius: 15px;
+}
+
+#new-message-page-first-message{
+    display: flex;
+    flex-direction: column;
+
+    justify-content: flex-end;
+
+    height: 80px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+
+    text-align: center;
+}
+
+#new-message-page-new-message{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+
+    margin-top: 5px;
+}
+
+#new-message-fillin-area-bis{
+    width: 250px
+}
+
+#new-message-page-group-data{
+    display: flex;
+    flex-direction: row;
+}
+
+.new-message-page-group-picture-parent-div{
+    background-color: var(--sixth-color);
+    width: 80px;
+    height: 32px;
+
+    border-radius: 15px;
+    margin-left: 10px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#new-message-page-group-picture-fake-input{
+    width: 80px;
+    height: 32px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    
+
+  
+}
+
+#new-message-group-no-image{
+    width: 40px;
+    height: 25px;
+
+    position: relative;
+    left: 40px;
+    z-index: 1;
+}
+
+#new-message-group-image-selected{
+    width: 80px;
+    min-width: 80px;
+    height: 32px;
+    border-radius: 100px;
+
+    position: relative;
+    left: 40px;
+    z-index: 1;
+}
+
+#new-message-page-group-picture-input{
+    width: 80px;
+    min-width: 80px;
+    height: 32px;
+
+    position: relative;
+    right: 10px;
+    z-index: 0;
+
+    visibility: hidden;
+}
+
+
+
+
+.new-message-send-new-message-button{
+    font-size: 0.8em;
+    display: flex;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* add friend component*/
+#new-message-friend-tile-background{
+    display: flex;
+    flex-direction: row;
+    margin-top: 5px;
+    background-color: var(--sixth-color);
+    border-radius: 15px;
+    width: 350px;
+    height: 70px;
+}
+
+#new-message-friend-tile-picture{
+    width: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#new-message-friend-tile-picture img{
+    width: 50px;
+    height: 50px;
+    border-radius: 100px;
+}
+
+#new-message-friend-tile-name{
+    width: 220px;
+    display: flex;
+    align-items: center;
+    font-weight: 400;
+    color: var(--third-color);
+
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+#new-message-friend-tile-add-button-container{
+    width: 60px;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#new-message-friend-tile-add-button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    width: 40px;
+    height: 40px;
+    background-color: var(--fifth-color);
+    color: var(--sixth-color);
+
+    border-radius: 100px;
+}
+
+
+
+/*Added friends component*/
+
+#added-friend-background{
+    background-color: var(--sixth-color);
+    color: var(--fifth-color);
+    border-radius: 100px;
+
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-right: 5px;
+    height: 40px;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+    margin-bottom: 5px;
+}
+
+#added-friend-delete-button-container{
+    background-color: var(--fifth-color);
+    color: var(--sixth-color);
+    width: 30px;
+    height: 30px;
+    border-radius: 100px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    margin-left: 5px;
+}
+
+#added-friend-delete-button{
+    width: 30px;
+    height: 30px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+
+    font-size: 1.2em;
+}

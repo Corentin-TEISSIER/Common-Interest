@@ -1,0 +1,28 @@
+@import url('variables.css');
+
+#board {
+  background-color: rgb(61, 61, 61) ;
+}
+
+#root {
+  display: flex;
+  position: absolute; 
+  top: 50%; 
+  left: 50%; 
+  transform: translate(-50%, -50%); 
+  width: 360px;
+  height: 800px;
+  background-color: white;
+  border: 5px solid black;
+  border-radius: 25px;
+
+  align-content: stretch;
+}
+
+.interest-circle{    
+  width: 15px;
+  background: black;
+  height: 15px;
+  border-radius: 100px;
+  padding: 5px;
+}

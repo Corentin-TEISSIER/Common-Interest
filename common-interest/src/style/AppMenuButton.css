@@ -1,0 +1,81 @@
+@import url('variables.css');
+
+.menu-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#left-button {
+    border-bottom-left-radius: 15px;
+}
+
+#right-button {
+    border-bottom-right-radius: 15px;
+}
+
+#messages-icon-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    position: relative;
+
+}
+
+#messages-pellet{
+    background-color: var(--first-color);
+    width: 20px;
+    height: 20px;
+    border-radius: 100px;
+
+    display: none;
+    justify-content: center;
+    align-items: center;
+
+    color: var(--header-color);
+    font-weight: bold;
+    font-family: Calibri;
+    text-decoration: none;
+
+    position: absolute;
+    bottom: 48px;
+    left: 48px;
+    
+
+}
+
+#friends-icon-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    position: relative;
+    border-bottom-left-radius: 15px;
+
+}
+
+#friends-pellet{
+    background-color: var(--first-color);
+    width: 20px;
+    height: 20px;
+    border-radius: 100px;
+
+    display: none;
+    justify-content: center;
+    align-items: center;
+
+    color: var(--header-color);
+    font-weight: bold;
+    font-family: Calibri;
+    text-decoration: none;
+
+    position: absolute;
+    bottom: 48px;
+    left: 48px;
+    
+
+}
+
+
+

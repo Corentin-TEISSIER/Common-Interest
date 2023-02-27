@@ -1,0 +1,88 @@
+{
+    "interests": {
+      "select": [
+        "select"
+      ],
+      "outdoor": [
+        "select",
+        "hiking",
+        "biking",
+        "camping",
+        "fishing",
+        "skiing"
+      ],
+      "creative": [
+        "select",
+        "painting",
+        "drawing",
+        "photography",
+        "sculpture",
+        "dance"
+      ],
+      "sports": [
+        "select",
+        "soccer",
+        "basketball",
+        "tennis",
+        "baseball",
+        "golf"
+      ],
+      "learning": [
+        "select",
+        "reading",
+        "writing",
+        "history",
+        "languages",
+        "science"
+      ],
+      "entertainment": [
+        "select",
+        "movies",
+        "tv shows",
+        "music",
+        "comedy",
+        "theater"
+      ],
+      "cooking": [
+        "select",
+        "baking",
+        "grilling",
+        "sushi making",
+        "bread making",
+        "italian cooking"
+      ],
+      "travel": [
+        "select",
+        "beach vacations",
+        "city breaks",
+        "nature retreats",
+        "adventure trips",
+        "cultural exchange"
+      ],
+      "health and wellness": [
+        "select",
+        "yoga",
+        "meditation",
+        "tai chi",
+        "nutrition",
+        "fitness"
+      ],
+      "personal development": [
+        "select",
+        "self improvement",
+        "public speaking",
+        "leadership",
+        "time management",
+        "stress management"
+      ],
+      "animal care": [
+        "select",
+        "dog walking",
+        "cat care",
+        "bird watching",
+        "horseback riding",
+        "aquarium maintenance"
+      ]
+    }
+  }
+  

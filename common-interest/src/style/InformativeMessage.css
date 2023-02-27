@@ -1,0 +1,33 @@
+@import url('variables.css');
+
+
+#informative-message-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-color: var(--fifth-color);
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+    font-family: Calibri;
+    font-size: 1.2em;
+    color: var(--third-color);
+    text-align: center;
+
+    border-radius: 100px;
+
+    z-index: 2;
+    position: absolute;
+    top: 680px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    opacity: 1;
+
+
+    
+}
+

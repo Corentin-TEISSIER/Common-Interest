@@ -1,0 +1,1713 @@
+{
+  "connectedUser": {
+    "id": 11,
+    "name": "Jonathan Cohen",
+    "username": "testUser",
+    "password": "password",
+    "profilePicture": "/Picture/jonathancohen.jpg",
+    "friends": [
+      5,
+      10,
+      8,
+      6,
+      9
+    ],
+    "activities": [
+      7,
+      4,
+      8
+    ],
+    "request": [
+      1
+    ],
+    "invitedActivities": [
+      3,
+      2,
+      1
+    ],
+    "interests": [
+      {
+        "category": "entertainment",
+        "speciality": "movies",
+        "frequency": "Everyday",
+        "level": "Pro"
+      },
+      {
+        "category": "outdoor",
+        "speciality": "camping",
+        "frequency": "Regularly",
+        "level": "Expert"
+      },
+      {
+        "category": "entertainment",
+        "speciality": "music",
+        "frequency": "Occasionally",
+        "level": "Advanced"
+      },
+      {
+        "category": "travel",
+        "speciality": "city breaks",
+        "frequency": "Occasionally",
+        "level": "Intermediate"
+      },
+      {
+        "category": "sports",
+        "speciality": "basketball",
+        "frequency": "Occasionally",
+        "level": "Beginner"
+      }
+    ],
+    "location": "Torino",
+    "age": "23",
+    "activityModerationRequestTampon": -1,
+    "activityInviteFriendsTampon": {
+      "activityId": -1,
+      "fromPath": ""
+    },
+    "newActivityFromPathTampon": ""
+  },
+  "users": [
+    {
+      "id": 0,
+      "name": "Dur Houldey",
+      "username": "Dur",
+      "password": "tjuvESY1w",
+      "profilePicture": "/Picture/pexels-ag-z-3483800.jpg",
+      "friends": [],
+      "activities": [
+        1,
+        2,
+        3,
+        9
+      ],
+      "request": [],
+      "invitedActivities": [],
+      "interests": [
+        {
+          "category": "outdoor",
+          "speciality": "camping",
+          "frequency": "Occasionally",
+          "level": "Beginner"
+        },
+        {
+          "category": "sports",
+          "speciality": "basketball",
+          "frequency": "Everyday",
+          "level": "Pro"
+        },
+        {
+          "category": "entertainment",
+          "speciality": "movies",
+          "frequency": "Regularly",
+          "level": "Intermediate"
+        }
+      ],
+      "location": "Torino",
+      "age": 25,
+      "activityModerationRequestTampon": -1,
+      "activityInviteFriendsTampon": {
+        "activityId": -1,
+        "fromPath": ""
+      },
+      "newActivityFromPathTampon": ""
+    },
+    {
+      "id": 1,
+      "name": "Chiquita Minchen",
+      "username": "Chiquita",
+      "password": "BxcmQr4Oqn",
+      "profilePicture": "/Picture/pexels-behrouz-sasani-6019152.jpg",
+      "friends": [],
+      "activities": [
+        1,
+        2
+      ],
+      "request": [],
+      "invitedActivities": [],
+      "interests": [
+        {
+          "category": "sports",
+          "speciality": "basketball",
+          "frequency": "Regularly",
+          "level": "Advanced"
+        },
+        {
+          "category": "entertainment",
+          "speciality": "movies",
+          "frequency": "Regularly",
+          "level": "Pro"
+        }
+      ],
+      "location": "Torino",
+      "age": "21",
+      "activityModerationRequestTampon": -1,
+      "activityInviteFriendsTampon": {
+        "activityId": -1,
+        "fromPath": ""
+      },
+      "newActivityFromPathTampon": ""
+    },
+    {
+      "id": 2,
+      "name": "Elly Moorman",
+      "username": "Elly",
+      "password": "gcmlLRj8gV",
+      "profilePicture": "/Picture/pexels-bruno-salvadori-2269872.jpg",
+      "friends": [],
+      "activities": [
+        3,
+        5
+      ],
+      "request": [],
+      "invitedActivities": [],
+      "interests": [
+        {
+          "category": "outdoor",
+          "speciality": "camping",
+          "frequency": "Frequently",
+          "level": "Expert"
+        },
+        {
+          "category": "animal care",
+          "speciality": "dog walking",
+          "frequency": "Occasionally",
+          "level": "Intermediate"
+        },
+        {
+          "category": "entertainment",
+          "speciality": "music",
+          "frequency": "Everyday",
+          "level": "Advanced"
+        },
+        {
+          "category": "sports",
+          "speciality": "tennis",
+          "frequency": "Occasionally",
+          "level": "Intermediate"
+        }
+      ],
+      "location": "Torino",
+      "age": "22",
+      "activityModerationRequestTampon": -1,
+      "activityInviteFriendsTampon": {
+        "activityId": -1,
+        "fromPath": ""
+      },
+      "newActivityFromPathTampon": ""
+    },
+    {
+      "id": 3,
+      "name": "Katlin Hoyes",
+      "username": "Katlin",
+      "password": "inqcrJM",
+      "profilePicture": "/Picture/pexels-caio-3042160.jpg",
+      "friends": [],
+      "activities": [
+        6,
+        5,
+        1
+      ],
+      "request": [],
+      "invitedActivities": [],
+      "interests": [
+        {
+          "category": "health and wellness",
+          "speciality": "yoga",
+          "frequency": "Frequently",
+          "level": "Advanced"
+        },
+        {
+          "category": "personal development",
+          "speciality": "stress management",
+          "frequency": "Regularly",
+          "level": "Advanced"
+        },
+        {
+          "category": "entertainment",
+          "speciality": "music",
+          "frequency": "Regularly",
+          "level": "Intermediate"
+        },
+        {
+          "category": "cooking",
+          "speciality": "bread making",
+          "frequency": "Regularly",
+          "level": "Beginner"
+        },
+        {
+          "category": "animal care",
+          "speciality": "cat care",
+          "frequency": "Everyday",
+          "level": "Pro"
+        },
+        {
+          "category": "sports",
+          "speciality": "basketball",
+          "frequency": "Rarely",
+          "level": "Beginner"
+        }
+      ],
+      "location": "Torino",
+      "age": "22",
+      "activityModerationRequestTampon": -1,
+      "activityInviteFriendsTampon": {
+        "activityId": -1,
+        "fromPath": ""
+      },
+      "newActivityFromPathTampon": ""
+    },
+    {
+      "id": 4,
+      "name": "Alejandra Laite",
+      "username": "Alejandra",
+      "password": "WegCoyqxRBq",
+      "profilePicture": "/Picture/pexels-1520760.jpg",
+      "friends": [],
+      "activities": [
+        1,
+        3,
+        9
+      ],
+      "request": [],
+      "invitedActivities": [],
+      "interests": [
+        {
+          "category": "sports",
+          "speciality": "basketball",
+          "frequency": "Regularly",
+          "level": "Intermediate"
+        },
+        {
+          "category": "sports",
+          "speciality": "soccer",
+          "frequency": "Occasionally",
+          "level": "Intermediate"
+        },
+        {
+          "category": "outdoor",
+          "speciality": "camping",
+          "frequency": "Frequently",
+          "level": "Advanced"
+        }
+      ],
+      "location": "Torino",
+      "age": "21",
+      "activityModerationRequestTampon": 3,
+      "activityInviteFriendsTampon": {
+        "activityId": -1,
+        "fromPath": ""
+      },
+      "newActivityFromPathTampon": ""
+    },
+    {
+      "id": 5,
+      "name": "Vinni Cammack",
+      "username": "Vinni",
+      "password": "Vjn8U08zucp",
+      "profilePicture": "/Picture/pexels-govinda-valbuena-1054048.jpg",
+      "friends": [
+        11
+      ],
+      "activities": [
+        1,
+        5,
+        7
+      ],
+      "request": [],
+      "invitedActivities": [],
+      "interests": [
+        {
+          "category": "entertainment",
+          "speciality": "music",
+          "frequency": "Everyday",
+          "level": "Expert"
+        },
+        {
+          "category": "entertainment",
+          "speciality": "tv shows",
+          "frequency": "Regularly",
+          "level": "Advanced"
+        },
+        {
+          "category": "sports",
+          "speciality": "basketball",
+          "frequency": "Frequently",
+          "level": "Intermediate"
+        },
+        {
+          "category": "travel",
+          "speciality": "city breaks",
+          "frequency": "Regularly",
+          "level": "Advanced"
+        },
+        {
+          "category": "outdoor",
+          "speciality": "camping",
+          "frequency": "Occasionally",
+          "level": "Intermediate"
+        }
+      ],
+      "location": "Torino",
+      "age": "23",
+      "activityModerationRequestTampon": -1,
+      "activityInviteFriendsTampon": {
+        "activityId": -1,
+        "fromPath": ""
+      },
+      "newActivityFromPathTampon": "/MyActivitiesPage/"
+    },
+    {
+      "id": 6,
+      "name": "Clarice Nutley",
+      "username": "Clarice",
+      "password": "o1aGrsy",
+      "profilePicture": "/Picture/pexels-iva-prime-5795034.jpg",
+      "friends": [
+        11
+      ],
+      "activities": [
+        2,
+        3,
+        4,
+        8
+      ],
+      "request": [],
+      "invitedActivities": [],
+      "interests": [
+        {
+          "category": "entertainment",
+          "speciality": "movies",
+          "frequency": "Frequently",
+          "level": "Intermediate"
+        },
+        {
+          "category": "cooking",
+          "speciality": "sushi making",
+          "frequency": "Frequently",
+          "level": "Intermediate"
+        },
+        {
+          "category": "outdoor",
+          "speciality": "camping",
+          "frequency": "Rarely",
+          "level": "Beginner"
+        }
+      ],
+      "location": "Torino",
+      "age": "21",
+      "activityModerationRequestTampon": -1,
+      "activityInviteFriendsTampon": {
+        "activityId": -1,
+        "fromPath": ""
+      },
+      "newActivityFromPathTampon": ""
+    },
+    {
+      "id": 7,
+      "name": "Anselm Gianasi",
+      "username": "Anselm",
+      "password": "yBmcs7hg",
+      "profilePicture": "/Picture/pexels-aghashukur-mammadli-15422042.jpg",
+      "friends": [],
+      "activities": [
+        3,
+        4,
+        8
+      ],
+      "request": [],
+      "invitedActivities": [],
+      "interests": [
+        {
+          "category": "entertainment",
+          "speciality": "movies",
+          "frequency": "Frequently",
+          "level": "Advanced"
+        },
+        {
+          "category": "outdoor",
+          "speciality": "camping",
+          "frequency": "Occasionally",
+          "level": "Intermediate"
+        }
+      ],
+      "location": "Torino",
+      "age": "21",
+      "activityModerationRequestTampon": -1,
+      "activityInviteFriendsTampon": {
+        "activityId": -1,
+        "fromPath": ""
+      },
+      "newActivityFromPathTampon": ""
+    },
+    {
+      "id": 8,
+      "name": "Nalu Matos",
+      "username": "Nalu",
+      "password": "YHH94FKbyxkN",
+      "profilePicture": "/Picture/pexels-nurlan-tortbayev-10311994.jpg",
+      "friends": [
+        11
+      ],
+      "activities": [
+        7,
+        4,
+        6,
+        5,
+        8
+      ],
+      "request": [],
+      "invitedActivities": [],
+      "interests": [
+        {
+          "category": "entertainment",
+          "speciality": "music",
+          "frequency": "Regularly",
+          "level": "Pro"
+        },
+        {
+          "category": "sports",
+          "speciality": "soccer",
+          "frequency": "Frequently",
+          "level": "Advanced"
+        },
+        {
+          "category": "outdoor",
+          "speciality": "biking",
+          "frequency": "Regularly",
+          "level": "Intermediate"
+        },
+        {
+          "category": "entertainment",
+          "speciality": "movies",
+          "frequency": "Occasionally",
+          "level": "Intermediate"
+        },
+        {
+          "category": "travel",
+          "speciality": "city breaks",
+          "frequency": "Occasionally",
+          "level": "Beginner"
+        },
+        {
+          "category": "cooking",
+          "speciality": "sushi making",
+          "frequency": "Occasionally",
+          "level": "Beginner"
+        }
+      ],
+      "location": "Torino",
+      "age": "20",
+      "activityModerationRequestTampon": -1,
+      "activityInviteFriendsTampon": {
+        "activityId": -1,
+        "fromPath": ""
+      },
+      "newActivityFromPathTampon": ""
+    },
+    {
+      "id": 9,
+      "name": "Meg Epinoy",
+      "username": "Meg",
+      "password": "A40p4o3KQ9",
+      "profilePicture": "/Picture/pexels-3426975.jpg",
+      "friends": [
+        11
+      ],
+      "activities": [
+        3,
+        7
+      ],
+      "request": [],
+      "invitedActivities": [],
+      "interests": [
+        {
+          "category": "creative",
+          "speciality": "painting",
+          "frequency": "Frequently",
+          "level": "Advanced"
+        },
+        {
+          "category": "creative",
+          "speciality": "drawing",
+          "frequency": "Regularly",
+          "level": "Advanced"
+        },
+        {
+          "category": "creative",
+          "speciality": "photography",
+          "frequency": "Regularly",
+          "level": "Advanced"
+        },
+        {
+          "category": "outdoor",
+          "speciality": "camping",
+          "frequency": "Occasionally",
+          "level": "Advanced"
+        },
+        {
+          "category": "travel",
+          "speciality": "city breaks",
+          "frequency": "Occasionally",
+          "level": "Intermediate"
+        },
+        {
+          "category": "creative",
+          "speciality": "sculpture",
+          "frequency": "Occasionally",
+          "level": "Intermediate"
+        }
+      ],
+      "location": "Torino",
+      "age": "20",
+      "activityModerationRequestTampon": -1,
+      "activityInviteFriendsTampon": {
+        "activityId": -1,
+        "fromPath": ""
+      },
+      "newActivityFromPathTampon": ""
+    },
+    {
+      "id": 10,
+      "name": "Sponge Bob",
+      "username": "spongeBob",
+      "password": "spongePassword",
+      "profilePicture": "/Picture/corentin-profile-picture.jpg",
+      "friends": [
+        11
+      ],
+      "activities": [
+        8,
+        4
+      ],
+      "request": [],
+      "invitedActivities": [],
+      "interests": [
+        {
+          "category": "entertainment",
+          "speciality": "movies",
+          "frequency": "Occasionally",
+          "level": "Intermediate"
+        }
+      ],
+      "location": "Torino",
+      "age": "23",
+      "activityModerationRequestTampon": -1,
+      "activityInviteFriendsTampon": {
+        "activityId": -1,
+        "fromPath": ""
+      },
+      "newActivityFromPathTampon": ""
+    },
+    {
+      "id": 11,
+      "name": "Jonathan Cohen",
+      "username": "testUser",
+      "password": "password",
+      "profilePicture": "/Picture/jonathancohen.jpg",
+      "friends": [
+        5,
+        10,
+        8,
+        6,
+        9
+      ],
+      "activities": [
+        7,
+        4,
+        8
+      ],
+      "request": [
+        1
+      ],
+      "invitedActivities": [
+        3,
+        2,
+        1
+      ],
+      "interests": [
+        {
+          "category": "entertainment",
+          "speciality": "movies",
+          "frequency": "Everyday",
+          "level": "Pro"
+        },
+        {
+          "category": "outdoor",
+          "speciality": "camping",
+          "frequency": "Regularly",
+          "level": "Expert"
+        },
+        {
+          "category": "entertainment",
+          "speciality": "music",
+          "frequency": "Occasionally",
+          "level": "Advanced"
+        },
+        {
+          "category": "travel",
+          "speciality": "city breaks",
+          "frequency": "Occasionally",
+          "level": "Intermediate"
+        },
+        {
+          "category": "sports",
+          "speciality": "basketball",
+          "frequency": "Occasionally",
+          "level": "Beginner"
+        }
+      ],
+      "location": "Torino",
+      "age": "23",
+      "activityModerationRequestTampon": -1,
+      "activityInviteFriendsTampon": {
+        "activityId": -1,
+        "fromPath": ""
+      },
+      "newActivityFromPathTampon": ""
+    }
+  ],
+  "activities": {
+    "activities": [
+      {
+        "id": 0,
+        "title": "",
+        "dealerId": -1,
+        "description": "",
+        "location": "",
+        "date": "",
+        "numberMaxCustomer": -1,
+        "customersId": [],
+        "moderatorId": [],
+        "moderatorRequestId": [],
+        "picture": "",
+        "speciality": ""
+      },
+      {
+        "id": 1,
+        "title": "Basket match",
+        "dealerId": 4,
+        "description": "Let's play basket this week-end, it will be sunny!",
+        "location": "Via Basketfield, 01, Torino",
+        "date": "18/02/2023",
+        "numberMaxCustomer": "10",
+        "customersId": [
+          1,
+          0,
+          3,
+          5
+        ],
+        "moderatorId": [],
+        "moderatorRequestId": [
+          1
+        ],
+        "picture": "/Picture/basketball.jpg",
+        "speciality": "basketball"
+      },
+      {
+        "id": 2,
+        "title": "Wakanda Forever",
+        "dealerId": 1,
+        "description": "I am looking for people to come with me to see Wakanda Forever! Maybe we could go for a drink after to discuss the movie!",
+        "location": "Via Cinema, 01, Torino",
+        "date": "25/02/2023",
+        "numberMaxCustomer": "6",
+        "customersId": [
+          7,
+          0,
+          6
+        ],
+        "moderatorId": [],
+        "moderatorRequestId": [],
+        "picture": "/Picture/cinema.jpg",
+        "speciality": "movies"
+      },
+      {
+        "id": 3,
+        "title": "Forest Camping",
+        "dealerId": 7,
+        "description": "I am looking for motivated people to go camping in the forest. I can lend equipment\n",
+        "location": "Via Of The Forest, 01, Torino",
+        "date": "11/03/2023",
+        "numberMaxCustomer": "6",
+        "customersId": [
+          0,
+          6,
+          2,
+          9
+        ],
+        "moderatorId": [],
+        "moderatorRequestId": [],
+        "picture": "/Picture/forest-camping-min.jpg",
+        "speciality": "camping"
+      },
+      {
+        "id": 4,
+        "title": "visit to la Mole",
+        "dealerId": 6,
+        "description": "I planify a visit to la Mole and its cinema museum. If you like cinema history or just watching blockbusters feel free to join.",
+        "location": "Via Montebello, 20, Torino",
+        "date": "19/03/2023",
+        "numberMaxCustomer": "6",
+        "customersId": [
+          8,
+          11,
+          7,
+          10
+        ],
+        "moderatorId": [
+          11
+        ],
+        "moderatorRequestId": [],
+        "picture": "/Picture/la-mole.jpg",
+        "speciality": "movies"
+      },
+      {
+        "id": 5,
+        "title": "Jazz Buff",
+        "dealerId": 2,
+        "description": "Hey! I would like to organise a big Jazz buff. Feel free to join if you like playing Jazz whatever your level, we are here to enjoy.\nJazzy Vibes!",
+        "location": "Via JazzMusic, 01, Torino",
+        "date": "15/04/2023",
+        "numberMaxCustomer": "20",
+        "customersId": [
+          3,
+          8,
+          5
+        ],
+        "moderatorId": [],
+        "moderatorRequestId": [],
+        "picture": "/Picture/jazz.jpg",
+        "speciality": "music"
+      },
+      {
+        "id": 6,
+        "title": "Andean Music ",
+        "dealerId": 3,
+        "description": "Namaste! I'm just starting to practice Andian music and I need to practice. I am searching for other people with this interest that would like to join me for a session.",
+        "location": "Via My House, 01, Torino",
+        "date": "30/03/2023",
+        "numberMaxCustomer": "6",
+        "customersId": [
+          8
+        ],
+        "moderatorId": [],
+        "moderatorRequestId": [],
+        "picture": "/Picture/andean-music.jpg",
+        "speciality": "music"
+      },
+      {
+        "id": 7,
+        "title": "Trip to Milano",
+        "dealerId": 9,
+        "description": "Come with to Milano. I love this city and I often go there. I'll be a good guide if you like city trips!",
+        "location": "Milano",
+        "date": "04/03/2023",
+        "numberMaxCustomer": "5",
+        "customersId": [
+          8,
+          5,
+          11
+        ],
+        "moderatorId": [],
+        "moderatorRequestId": [],
+        "picture": "/Picture/milano.jpg",
+        "speciality": "city breaks"
+      },
+      {
+        "id": 8,
+        "title": "Let's shoot a movie!",
+        "dealerId": 8,
+        "description": "I am currently studying cinema and I have the dream to shoot a short movie. If you love cinema. if you have acting, cameraman or sound engineering skills, JOIN ME!",
+        "location": "Via Hollywood, 01, Torino",
+        "date": "02/04/2023",
+        "numberMaxCustomer": "20",
+        "customersId": [
+          10,
+          11,
+          7,
+          6
+        ],
+        "moderatorId": [
+          11
+        ],
+        "moderatorRequestId": [],
+        "picture": "/Picture/shot-movie.jpg",
+        "speciality": "movies"
+      },
+      {
+        "id": 9,
+        "title": "Survival Session",
+        "dealerId": 5,
+        "description": "You would like to learn how to survive in forest with a minimum of tools? You find the right proposal!",
+        "location": "Via Survivor, 01, Torino",
+        "date": "25/03/2023",
+        "numberMaxCustomer": "10",
+        "customersId": [
+          0,
+          4
+        ],
+        "moderatorId": [],
+        "moderatorRequestId": [],
+        "picture": "/Picture/surival.jpg",
+        "speciality": "camping"
+      }
+    ]
+  },
+  "messages": [
+    {
+      "id": 0,
+      "type": "direct",
+      "group": {},
+      "users": [
+        -1,
+        -2
+      ],
+      "feed": []
+    },
+    {
+      "id": 1,
+      "type": "group",
+      "group": {
+        "groupName": "Basket match",
+        "groupPicture": "/Picture/basketball.jpg"
+      },
+      "users": [
+        4,
+        1,
+        0,
+        3,
+        5
+      ],
+      "feed": [
+        {
+          "sender": 1,
+          "content": "hey! just registered on this activity! how are you doing?",
+          "readers": [
+            0,
+            5,
+            4,
+            3
+          ]
+        },
+        {
+          "sender": 0,
+          "content": "Hey, same to me. I'm fine, you?",
+          "readers": [
+            5,
+            4,
+            1,
+            3
+          ]
+        },
+        {
+          "sender": 0,
+          "content": "Who can bring a ball?",
+          "readers": [
+            5,
+            4,
+            1,
+            3
+          ]
+        },
+        {
+          "sender": 5,
+          "content": "I can",
+          "readers": [
+            4,
+            1,
+            0,
+            3
+          ]
+        },
+        {
+          "sender": 5,
+          "content": "even 2 balls if needed",
+          "readers": [
+            4,
+            1,
+            0,
+            3
+          ]
+        },
+        {
+          "sender": 4,
+          "content": "so cool!",
+          "readers": [
+            1,
+            0,
+            3,
+            5
+          ]
+        },
+        {
+          "sender": 4,
+          "content": "LAKERS, LAKERS, LAKERS!",
+          "readers": [
+            1,
+            0,
+            3,
+            5
+          ]
+        },
+        {
+          "sender": 1,
+          "content": "hahaha",
+          "readers": [
+            0,
+            3,
+            5
+          ]
+        },
+        {
+          "sender": 0,
+          "content": "hope it will not rain...",
+          "readers": [
+            3,
+            5
+          ]
+        },
+        {
+          "sender": 3,
+          "content": "hopr too....",
+          "readers": [
+            5
+          ]
+        },
+        {
+          "sender": 5,
+          "content": "It will be sunny!",
+          "readers": []
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "group",
+      "group": {
+        "groupName": "Wakanda Forever",
+        "groupPicture": "/Picture/cinema.jpg"
+      },
+      "users": [
+        1,
+        0,
+        6
+      ],
+      "feed": [
+        {
+          "sender": 1,
+          "content": "Message to all people who register on this activity: Do not hesitate to send a message here for general information.",
+          "readers": [
+            0,
+            6
+          ]
+        },
+        {
+          "sender": 0,
+          "content": "great",
+          "readers": [
+            1,
+            6
+          ]
+        },
+        {
+          "sender": 1,
+          "content": "I offer popcorn ",
+          "readers": [
+            6,
+            0
+          ]
+        },
+        {
+          "sender": 6,
+          "content": "I eat popcorn... coincidence? I do not think so",
+          "readers": [
+            0
+          ]
+        },
+        {
+          "sender": 0,
+          "content": "Hahaha",
+          "readers": []
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "group",
+      "group": {
+        "groupName": "Forest Camping",
+        "groupPicture": "/Picture/forest-camping-min.jpg"
+      },
+      "users": [
+        7,
+        0,
+        6,
+        2,
+        9
+      ],
+      "feed": [
+        {
+          "sender": 0,
+          "content": "I'll bring my tent",
+          "readers": [
+            2,
+            9,
+            7,
+            6
+          ]
+        },
+        {
+          "sender": 2,
+          "content": "nice, I take care of the food",
+          "readers": [
+            9,
+            7,
+            6,
+            0
+          ]
+        },
+        {
+          "sender": 9,
+          "content": "What should I bring? I can use my car to bring stuff",
+          "readers": [
+            7,
+            6,
+            0,
+            2
+          ]
+        },
+        {
+          "sender": 7,
+          "content": "nice, can you also bring people, like... Me for example? XD",
+          "readers": [
+            6,
+            0,
+            2,
+            9
+          ]
+        },
+        {
+          "sender": 6,
+          "content": "Or me? XD",
+          "readers": [
+            0,
+            2,
+            9
+          ]
+        },
+        {
+          "sender": 2,
+          "content": "I can use my car too",
+          "readers": [
+            9
+          ]
+        },
+        {
+          "sender": 9,
+          "content": "HAHAHA! I can bring only two other people than me, more would not let place for the equipment",
+          "readers": []
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": "group",
+      "group": {
+        "groupName": "visit to la Mole",
+        "groupPicture": "/Picture/la-mole.jpg"
+      },
+      "users": [
+        6,
+        8,
+        11,
+        7,
+        10
+      ],
+      "feed": [
+        {
+          "sender": 7,
+          "content": "I love this building, I find it magnificent",
+          "readers": [
+            6,
+            8,
+            10
+          ]
+        },
+        {
+          "sender": 6,
+          "content": "Mee too!",
+          "readers": [
+            8,
+            10,
+            7
+          ]
+        },
+        {
+          "sender": 6,
+          "content": "can't wait for the visit!",
+          "readers": [
+            8,
+            10,
+            7
+          ]
+        },
+        {
+          "sender": 8,
+          "content": "That is true, it is beautiful, and the museum is greate too. I already visited it, but I would like to do it again",
+          "readers": [
+            10,
+            7,
+            6
+          ]
+        },
+        {
+          "sender": 10,
+          "content": "AAAAAAAAHHHH",
+          "readers": [
+            7,
+            6,
+            8
+          ]
+        },
+        {
+          "sender": 10,
+          "content": "I will make this monument burn!",
+          "readers": [
+            7,
+            6,
+            8
+          ]
+        },
+        {
+          "sender": 10,
+          "content": "And kill you all",
+          "readers": [
+            7,
+            6,
+            8
+          ]
+        },
+        {
+          "sender": 10,
+          "content": "hehehe",
+          "readers": [
+            7,
+            6,
+            8
+          ]
+        },
+        {
+          "sender": 7,
+          "content": "Weird...",
+          "readers": [
+            6,
+            8,
+            10
+          ]
+        },
+        {
+          "sender": 6,
+          "content": "#moderation",
+          "readers": [
+            8,
+            10
+          ]
+        },
+        {
+          "sender": 8,
+          "content": "At which hour do me meet?",
+          "readers": [
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": "group",
+      "group": {
+        "groupName": "Jazz Buff",
+        "groupPicture": "/Picture/jazz.jpg"
+      },
+      "users": [
+        2,
+        3,
+        8,
+        5
+      ],
+      "feed": [
+        {
+          "sender": 2,
+          "content": "I am a saxophonist",
+          "readers": [
+            3,
+            8,
+            5
+          ]
+        },
+        {
+          "sender": 3,
+          "content": "I practice trumpet, and I can use my car to bring or move stuff if it is needed",
+          "readers": [
+            8,
+            5,
+            2
+          ]
+        },
+        {
+          "sender": 8,
+          "content": "I play bass and I LOVE jazz buffs",
+          "readers": [
+            5,
+            2,
+            3
+          ]
+        },
+        {
+          "sender": 5,
+          "content": "I play drums!",
+          "readers": [
+            2,
+            3,
+            8
+          ]
+        },
+        {
+          "sender": 2,
+          "content": "It start looking to something. Do not hesitate to invite your other friends that would have an interest for jazz music",
+          "readers": [
+            3,
+            8,
+            5
+          ]
+        },
+        {
+          "sender": 3,
+          "content": "I'll take a look",
+          "readers": [
+            8,
+            5
+          ]
+        },
+        {
+          "sender": 5,
+          "content": "same...",
+          "readers": []
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": "group",
+      "group": {
+        "groupName": "Andean Music ",
+        "groupPicture": "/Picture/andean-music.jpg"
+      },
+      "users": [
+        3,
+        8
+      ],
+      "feed": [
+        {
+          "sender": 3,
+          "content": "What a cool idea!",
+          "readers": [
+            8
+          ]
+        },
+        {
+          "sender": 8,
+          "content": "Hey how are you doing?",
+          "readers": [
+            3
+          ]
+        },
+        {
+          "sender": 3,
+          "content": "I am fine, you?",
+          "readers": [
+            8
+          ]
+        },
+        {
+          "sender": 8,
+          "content": "Fine!",
+          "readers": []
+        },
+        {
+          "sender": 8,
+          "content": "so? What you propose concretly?",
+          "readers": []
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": "group",
+      "group": {
+        "groupName": "Trip to Milano",
+        "groupPicture": "/Picture/milano.jpg"
+      },
+      "users": [
+        9,
+        8,
+        5,
+        11
+      ],
+      "feed": [
+        {
+          "sender": 9,
+          "content": "How will you go there? Car, bus, train?",
+          "readers": [
+            8,
+            5,
+            11
+          ]
+        },
+        {
+          "sender": 8,
+          "content": "I personnaly will take bus, It is less expenssive",
+          "readers": [
+            5,
+            9,
+            11
+          ]
+        },
+        {
+          "sender": 5,
+          "content": "I go with my care, I can bring up to 2 other people",
+          "readers": [
+            9,
+            8,
+            11
+          ]
+        },
+        {
+          "sender": 9,
+          "content": "I'm volunteer!",
+          "readers": [
+            8,
+            5,
+            11
+          ]
+        },
+        {
+          "sender": 8,
+          "content": "oh! Finally bus has been canceled... I am volunteer TOO!",
+          "readers": [
+            5,
+            11
+          ]
+        },
+        {
+          "sender": 5,
+          "content": "ok, i'll bring the two of you",
+          "readers": [
+            11
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": "group",
+      "group": {
+        "groupName": "Let's shoot a movie!",
+        "groupPicture": "/Picture/shot-movie.jpg"
+      },
+      "users": [
+        8,
+        11,
+        7,
+        6,
+        10
+      ],
+      "feed": [
+        {
+          "sender": 7,
+          "content": "I have some equipment if it can help (camera, sound poles, ...)",
+          "readers": [
+            8,
+            6,
+            10
+          ]
+        },
+        {
+          "sender": 8,
+          "content": "So cool! I am actually also asking to some friends that could borrow me some stuff",
+          "readers": [
+            7,
+            6,
+            10
+          ]
+        },
+        {
+          "sender": 8,
+          "content": "Would you also like to play in the movie?",
+          "readers": [
+            7,
+            6,
+            10
+          ]
+        },
+        {
+          "sender": 7,
+          "content": "Yes, that could be fun, what do you propose?",
+          "readers": [
+            6,
+            8,
+            10
+          ]
+        },
+        {
+          "sender": 6,
+          "content": "I do some theater",
+          "readers": [
+            8,
+            10
+          ]
+        },
+        {
+          "sender": 6,
+          "content": "(I have some acting skills)",
+          "readers": [
+            8,
+            10
+          ]
+        },
+        {
+          "sender": 10,
+          "content": "serc svyew  qrrqgrw sdfegqrgf nzq rg",
+          "readers": []
+        },
+        {
+          "sender": 10,
+          "content": "qsrdgf f qrswsdfg  qrg<sf",
+          "readers": []
+        },
+        {
+          "sender": 10,
+          "content": "gnagnagn acting skills",
+          "readers": []
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": "group",
+      "group": {
+        "groupName": "Survival Session",
+        "groupPicture": "/Picture/surival.jpg"
+      },
+      "users": [
+        5,
+        0,
+        4
+      ],
+      "feed": [
+        {
+          "sender": 0,
+          "content": "What should we bring?",
+          "readers": [
+            5,
+            4
+          ]
+        },
+        {
+          "sender": 5,
+          "content": "A knife and an underwear",
+          "readers": [
+            4,
+            0
+          ]
+        },
+        {
+          "sender": 4,
+          "content": "funny",
+          "readers": [
+            0,
+            5
+          ]
+        },
+        {
+          "sender": 0,
+          "content": "a tent maybe?",
+          "readers": [
+            5
+          ]
+        },
+        {
+          "sender": 5,
+          "content": "yes, that would be a good idea",
+          "readers": []
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": "group",
+      "group": {
+        "groupName": "sdfffffg",
+        "groupPicture": ""
+      },
+      "users": [],
+      "feed": []
+    },
+    {
+      "id": 11,
+      "type": "direct",
+      "group": {},
+      "users": [
+        11,
+        6
+      ],
+      "feed": [
+        {
+          "sender": 11,
+          "content": "hey, how are you doing?",
+          "readers": [
+            6
+          ]
+        },
+        {
+          "sender": 6,
+          "content": "fine, but there is a weird guy that came into the movie shoot activity group message...",
+          "readers": []
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": "direct",
+      "group": {},
+      "users": [
+        11,
+        10
+      ],
+      "feed": [
+        {
+          "sender": 11,
+          "content": "You you act weird on the conversations for the Mole and the movie, is there a problem?",
+          "readers": [
+            10
+          ]
+        },
+        {
+          "sender": 10,
+          "content": " Go see elsewhere if I were there! Idiot",
+          "readers": []
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "type": "direct",
+      "group": {},
+      "users": [
+        11,
+        5
+      ],
+      "feed": [
+        {
+          "sender": 11,
+          "content": "Hey bro, what's up? New activities in the viewfinder?",
+          "readers": [
+            5
+          ]
+        },
+        {
+          "sender": 5,
+          "content": "Yes, some people proposed a basket match, that could be fun, do you wanna join?",
+          "readers": []
+        }
+      ]
+    }
+  ],
+  "interests": {
+    "interests": {
+      "select": [
+        "select"
+      ],
+      "outdoor": [
+        "select",
+        "hiking",
+        "biking",
+        "camping",
+        "fishing",
+        "skiing"
+      ],
+      "creative": [
+        "select",
+        "painting",
+        "drawing",
+        "photography",
+        "sculpture",
+        "dance"
+      ],
+      "sports": [
+        "select",
+        "soccer",
+        "basketball",
+        "tennis",
+        "baseball",
+        "golf"
+      ],
+      "learning": [
+        "select",
+        "reading",
+        "writing",
+        "history",
+        "languages",
+        "science"
+      ],
+      "entertainment": [
+        "select",
+        "movies",
+        "tv shows",
+        "music",
+        "comedy",
+        "theater"
+      ],
+      "cooking": [
+        "select",
+        "baking",
+        "grilling",
+        "sushi making",
+        "bread making",
+        "italian cooking"
+      ],
+      "travel": [
+        "select",
+        "beach vacations",
+        "city breaks",
+        "nature retreats",
+        "adventure trips",
+        "cultural exchange"
+      ],
+      "health and wellness": [
+        "select",
+        "yoga",
+        "meditation",
+        "tai chi",
+        "nutrition",
+        "fitness"
+      ],
+      "personal development": [
+        "select",
+        "self improvement",
+        "public speaking",
+        "leadership",
+        "time management",
+        "stress management"
+      ],
+      "animal care": [
+        "select",
+        "dog walking",
+        "cat care",
+        "bird watching",
+        "horseback riding",
+        "aquarium maintenance"
+      ]
+    }
+  }
+}

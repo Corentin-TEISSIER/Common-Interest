@@ -1,0 +1,60 @@
+@import url('variables.css');
+
+#discussion-tile-background{
+    background-color: var(--sixth-color);
+    width: 360px;
+    height: 80px;
+
+    border-radius: 15px;
+    margin-bottom: 5px;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+ 
+}
+
+#pellet-background{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--sixth-color);
+    
+    width: 40px;
+    height: 40px;
+    border-radius: 100px;
+    background-color: var(--fifth-color);
+    margin-right: 15px;
+    margin-left: 15px;
+
+}
+
+#discussion-tile-discussion-picture{
+    display: flex;
+    height: 80px;
+    width: 80px;
+
+    align-items: center;
+    justify-content: center;
+}
+
+#discussion-tile-discussion-picture img{
+    width: 60px;
+    height: 60px;
+    border-radius: 100px;
+
+    
+}
+
+#discussion-tile-discussion-title{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+
+    width: 210px;
+    height: 80px;
+    font-size: 0.70em;
+    font-weight: 400;
+    color: var(--third-color);
+}

@@ -1,0 +1,18 @@
+@import url('variables.css');
+
+header {
+  display: flex;
+  margin: 0;
+}
+
+#body-div {
+  display: flex;
+  margin: 0;
+  align-content: stretch;
+  background-color: white;
+}
+
+footer {
+  display: flex;
+  margin: 0;
+}

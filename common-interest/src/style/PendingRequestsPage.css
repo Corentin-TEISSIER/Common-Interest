@@ -1,0 +1,118 @@
+@import url('variables.css');
+
+#find-friends-tab-background-bis{
+    height: 40px;
+    width: 120px;
+    background-color: var(--fourth-color);
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+#find-friends-tab-bis {
+    display: flex;
+
+    background-color: var(--fifth-color);
+
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    font-size: 0.65em;
+
+    width: 120px;
+    height: 40px;
+    font-weight: bold;
+    font-family: Calibri;
+    font-style: italic;
+    color: var(--tab-color);
+
+    justify-content: center;
+    align-items: center;
+}
+
+#my-friends-tab-bis {
+    display: flex;
+
+    background-color: var(--fourth-color);
+
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+
+    width: 120px;
+    height: 40px;
+    font-size: 0.65em;
+    font-weight: bold;
+    font-family: Calibri;
+    font-style: italic;
+    color: var(--tab-color);
+
+    justify-content: center;
+    align-items: center;
+}
+
+#pending-requests-tab-bis {
+    display: flex;
+
+    background-color: var(--third-color);
+
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+
+    width: 120px;
+    height: 40px;
+    font-size: 0.65em;
+    font-weight: bold;
+    font-family: Calibri;
+    font-style: italic;
+    color: var(--tab-color);
+
+    justify-content: center;
+    align-items: center;
+}
+
+#pending-requests-background {
+    display: flex;
+    flex-direction: column;
+    width: 360px;
+    height: 610px;
+    background-color: var(--third-color);
+
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+
+}
+
+#pending-requests-main {
+    margin: 3px;
+
+    align-items: center;
+    justify-content: flex-start;
+
+    width: 360px;
+    height: 550px;
+    border-radius: 15px;
+
+    overflow-y: scroll;
+    scrollbar-width: none;
+
+
+
+}
+
+#pending-requests-main-content {
+    display: flex;
+    
+
+}
+
+#accepte-button-pendin-page{
+    background-color: var(--fifth-color);
+    color: var(--sixth-color);
+    border-radius: 100px;
+
+    font-size: 0.8em;
+    padding-left: 10px;
+    padding-right: 10px;
+
+    margin-bottom: 5px;
+}

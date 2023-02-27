@@ -1,0 +1,70 @@
+@import url('variables.css');
+
+#invite-friends-activity-page-background {
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    color: white;
+    font-size: 2em;
+    font-weight: bold;
+    font-family: Calibri;
+    width: 360px;
+    height: 656px;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+#invite-friends-activity-page{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+    height: 656px;
+    min-height: 656px;
+    width: 360px
+}
+
+#invite-friends-activity-page-scroll-area{
+    display: flex;
+    flex-direction: column;
+
+    width: 340px;
+    height: 600px;
+
+    border-radius: 15px;
+
+    overflow-y: auto;
+    scrollbar-width: none;
+
+    /* margin-top: 50px; */
+}
+
+#invite-friends-activity-friends-with-interests-label{
+    color: var(--first-color);
+    text-align: center;
+    font-size: 0.7em;
+    margin-bottom: 10px;
+}
+
+.no-friends-to-invite{
+    color: var(--fifth-color);
+    text-align: center;
+    font-size: 0.6em;
+
+    margin-bottom: 20px;
+}
+
+#invite-friends-activity-other-friends-label{
+    color: var(--first-color);
+    text-align: center;
+    font-size: 0.7em;
+    margin-bottom: 10px;
+}
+
+.invite-friends-user-tile{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}

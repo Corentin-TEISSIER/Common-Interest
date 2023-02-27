@@ -1,0 +1,84 @@
+@import url('variables.css');
+
+#become-moderator-page-background {
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    color: white;
+    font-size: 2em;
+    font-family: Calibri;
+    width: 360px;
+    height: 656px;
+    align-items: center;
+    justify-content: center;
+}
+
+#become-moderator-page-scroll-area{
+    overflow-y: auto;
+    scrollbar-width: none;
+
+    height: 600px;
+    width: 340px;
+
+    position: relative;
+    top: 20px;
+
+    border-radius: 15px;;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+#become-moderator-page-message-label{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 0.9em;
+    text-align: center;
+    height: 50px;
+}
+
+#become-moderator-page-message-to-applicant{
+    font-size: 0.8em;
+    text-align: center;
+    font-weight: lighter;
+}
+
+.moderator-word{
+    font-style: italic;
+    font-weight: bold;
+}
+
+#moderator-confirmation-message-label{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 0.6em;
+    font-weight: lighter;
+    color: var(--fourth-color);
+}
+
+#apply-moderator-role-button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-color: var(--sixth-color);
+    
+    margin-top: 25px;
+    margin-bottom: 25px;
+
+    width: 250px;
+    height: 75px;
+    border-radius: 45px;
+}
+
+
+hr{
+    width: 340px;
+    box-shadow: none;
+}

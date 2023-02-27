@@ -1,0 +1,50 @@
+/* :root {
+    --tab-color: var(--tab-color);
+    --header-color: #313131;
+    --first-color: #c9c9c9;
+    --second-color: #bebebe;
+    --third-color: #9a9a9a;
+    --fourth-color: #888888;
+    --fifth-color: #777777;
+    --sixth-color: #606060;
+
+  } */
+
+/* :root {
+  --tab-color: var(--tab-color);
+  --header-color: #28333e;
+  --first-color: #b9c2ca;
+  --second-color: #a2adb9;
+  --third-color: #8b96a2;
+  --fourth-color: #74808b;
+  --fifth-color: #5d6974;
+  --sixth-color: #424d57;
+
+} */
+
+/* grey and blue palette */
+/* :root {
+  --tab-color: var(--tab-color);
+  --header-color: #313131;
+  --first-color: #949494;
+  --second-color: #AEAEAE;
+  --third-color: #ADC3D1;
+  --fourth-color: #ADC3D1;
+  --fifth-color: #8FB1CC;
+  --sixth-color: #759CC9;
+
+} */
+
+/* blue-grey color */
+:root {
+  --tab-color: #ffffff;
+  --header-label-color: #616161;
+  --header-color: #313131;
+  --first-color: #6e7f80;
+  --second-color: #536872;
+  --third-color: #708090;
+  --fourth-color: #536878;
+  --fifth-color: #36454f ;
+  --sixth-color: #202020;
+
+}

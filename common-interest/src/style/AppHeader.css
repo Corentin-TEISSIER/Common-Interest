@@ -1,0 +1,45 @@
+@import url('variables.css');
+
+#background-header {
+    display: flex;
+    height: 72px;
+    width: 360px;
+    background-color: black;
+    border-radius: 15px 15px 0 0 ; 
+}
+
+#head-banner {
+    display: flex;
+    flex-direction: column;
+    height: 72px;
+    width: 360px;
+    background-color: var(--header-color);
+    border-radius: 15px;
+    padding-right: 15px;
+    justify-content: center;
+    align-items: flex-end;
+  
+
+}
+
+#head-banner div {
+    display:flex;
+    flex-direction: row-reverse;
+    flex-grow: 1;
+    font-size: 1.4em;
+    font-weight: bold;
+    font-family: Calibri;
+    font-style: italic;
+    color: var(--header-label-color);
+}
+
+#head-banner #first{
+    align-items: flex-end;
+}
+
+#head-banner #second{
+    align-items: flex-start;    
+}
+
+
+

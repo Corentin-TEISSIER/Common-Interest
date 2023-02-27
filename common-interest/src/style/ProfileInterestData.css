@@ -1,0 +1,25 @@
+@import url('variables.css');
+
+.major-line-container{
+    display: flex;
+    flex-direction: row;
+}
+
+.major-line-container{
+    display: flex;
+    flex-direction: row;
+}
+
+.profile-user-interests-last-line{
+    display: flex;
+    flex-direction: row;
+}
+
+.add-interest-buton-tile-in-list{
+    width: 140px;
+    height: 140px;
+    background-color: var(--first-color);
+
+    margin: 10px;
+    border-radius: 15px;
+}

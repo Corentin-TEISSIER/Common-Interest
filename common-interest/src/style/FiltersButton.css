@@ -1,0 +1,33 @@
+@import url('variables.css');
+
+#filters-button {
+    
+    display:flex;
+    background-color: #bbbbbb;
+    width:96px  ;
+    height: 25px;
+    border-radius: 100px;
+    align-items: center;
+    justify-content: center;
+    font-weight: 600;
+    color: #9a9a9a;
+    font-size: 12px;
+    font-style: italic;
+
+    color: var(--third-color);
+    font-size: 0.7em;
+
+    margin-right: 10px;
+    margin-left: 255px;
+    margin-top: 10px;
+
+    
+}
+.active-filter{
+    width:150px !important;
+    margin-left: 190px !important;
+    padding: 5px !important;
+    background-color: var(--fourth-color) !important;
+    color: white !important;
+
+}

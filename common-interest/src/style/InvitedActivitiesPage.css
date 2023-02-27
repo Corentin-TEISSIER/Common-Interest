@@ -1,0 +1,121 @@
+@import url('variables.css');
+
+
+#invited-activities-page-menu{
+    margin-top: 3px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+#all-activities-label-background-bis {
+
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+
+    height: 40px;
+    width: 180px;
+    background-color: var(--third-color);
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+#proposed-activities-label-background-bis {
+
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+
+    height: 40px;
+    width: 180px;
+    background-color: var(--third-color);
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+#all-activities-label-bis{
+
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+
+    border-bottom-right-radius: 15px;
+
+    height: 40px;
+    width: 180px;
+    background-color: var(--fourth-color);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    font-size: 1.5em;
+    font-weight: bold;
+    font-family: Calibri;
+    font-style: italic;
+    color: var(--tab-color);
+}
+
+#proposed-activities-label-bis{
+
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+
+    height: 40px;
+    width: 180px;
+    background-color: var(--third-color);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    font-size: 1.5em;
+    font-weight: bold;
+    font-family: Calibri;
+    font-style: italic;
+    color: var(--tab-color);
+}
+
+#invited-activities-page-background {
+    display: flex;
+    flex-direction: column;
+    background-color: var(--third-color);
+    color: white;
+    font-size: 2em;
+    font-weight: bold;
+    font-family: Calibri;
+    width: 360px;
+    height: 610px;
+
+    margin-bottom: 3px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    
+    
+}
+
+#invited-activities-page-scroll-area{
+    margin-left:5px;
+    margin-right: 5px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+
+    border-radius: 15px;
+
+    overflow-y: scroll;
+    scrollbar-width: none;
+
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+#invited-activities-page-activity-tile-container{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#invited-activities-message-no-activities{
+    color: var(--fifth-color);
+    text-align: center;
+    font-size: 0.5em;
+    margin-top: 20px;
+}

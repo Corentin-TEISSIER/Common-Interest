@@ -1,0 +1,88 @@
+{
+    "activities":[
+        {
+            "id": 0,
+            "title": "Soccer match",
+            "dealerId": 0,
+            "description": "Let's play soccer! I'm looking for people who wish play soccer on the week end generally. I can bring a ball. More we are, more fun we'll get! Hope i'll see you soon!",
+            "location": "Road of the soccer field, 1, 00001 SoccerLand",
+            "date": "10/01/2024",
+            "numberMaxCustomer": 22,
+            "customersId": [1,2,3],
+            "moderatorId": [],
+            "moderatorRequestId": [1,2,3],
+            "picture": "/Picture/foot-activity-picture.jpg",
+            "speciality": "soccer"
+        },
+        {
+            "id": 1,
+            "title": "Internationnal discussion",
+            "dealerId": 2,
+            "description": "Hi there! I'd like to improve my language skills... So I was wondering to create an event to meet people with different languages and talk to them. I already talk Italian and English. Feel free to join!",
+            "location": "Road of the discussion, 1, 00002 Everywhere",
+            "date": "02/04/2023",
+            "numberMaxCustomer": 5,
+            "customersId":[0, 1],
+            "moderatorId": [0],
+            "moderatorRequestId": [1],
+            "picture": "/Picture/discussion-activity-picture.png",
+            "speciality": "languages"
+        },
+        {
+            "id": 2,
+            "title": "Last Marvel Movie",
+            "dealerId": 2,
+            "description": "Hey! I am looking for some people FAN of marvel to come with me at the movie theater to watch the last one! Maybe after we can go to the pub to discuss about the Marvel univers...",
+            "location": "Road of the movie theater, 1, 00003 Movieland",
+            "date": "07/04/2023",
+            "numberMaxCustomer": 6,
+            "customersId": [3],
+            "moderatorId": [3],
+            "moderatorRequestId": [],
+            "picture": "/Picture/movie-activity-picture.jpg",
+            "speciality": "movies"
+        },
+        {
+            "id": 3,
+            "title": "Let's practice yoga!",
+            "dealerId": 2,
+            "description": "Do you want to reach nirvana with me? Let's pratice together",
+            "location": "Road of Shangrila, 1, 00004 Highland",
+            "date": "13/03/2023",
+            "numberMaxCustomer": 10,
+            "customersId": [1],
+            "moderatorId": [],
+            "moderatorRequestId": [1],
+            "picture": "/Picture/yoga-activity-picture.jpg",
+            "speciality": "yoga"
+        },
+        {
+            "id": 4,
+            "title": "Trip to Milanno",
+            "dealerId": 1,
+            "description": "I'm going to visit Milano on 15/03/2023. If you are also interested in visiting new cities to discover culture, architeture and so more please join",
+            "location": "Road of Trainlines, 1, 00005 Tchoutchouland",
+            "date": "15/03/2023",
+            "numberMaxCustomer": 5,
+            "customersId": [2],
+            "moderatorId": [2],
+            "moderatorRequestId": [],
+            "picture": "/Picture/milano-activity-picture.jpg",
+            "speciality": "city breaks"
+        },
+        {
+            "id": 5,
+            "title": "Forest camping",
+            "dealerId": 2,
+            "description": "I love camping in forest, making fire and eating marshmallow. If you wanna join in order to share camping skills I already have a tent.",
+            "location": "Road of the Forest, 1, 00006 Leaveland",
+            "date": "14/03/2023",
+            "numberMaxCustomer": 4,
+            "customersId": [],
+            "moderatorId": [],
+            "moderatorRequestId": [],
+            "picture": "/Picture/forest-camping-activity-picture.jpg",
+            "speciality": "nature retreats"
+        }
+    ] 
+}

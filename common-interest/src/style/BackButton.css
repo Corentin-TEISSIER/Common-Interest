@@ -1,0 +1,15 @@
+@import url('variables.css');
+
+#back-button {
+    display:flex;
+    background-color: var(--sixth-color);
+    width:46px;
+    height: 26px;
+    border-radius: 100px;
+    align-items: center;
+    justify-content: center;
+
+    position: absolute;
+    top: 82px;
+    left: 10px
+}
